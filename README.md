@@ -43,7 +43,7 @@ This is a one-time setup for your backend.
 
 ### Part 2: Configuring the User App (The App Your Users Install)
 
-1.  **Download the User App `.swb` file.** (Provide a link here if you are sharing it).
+1.  **Download the User App `.swb` file.** https://web.sketchub.in/p/31023
 2.  Open the project in Sketchware.
 3.  Navigate to `MainActivity` -> `initializeLogic` event.
 4.  Find the `network.startRequestNetwork` block or ASD code.
@@ -54,7 +54,7 @@ This is a one-time setup for your backend.
 
 ### Part 3: Configuring the Admin Panel App
 
-1.  **Download the Admin App `.swb` file.** (Provide a link here).
+1.  **Download the Admin App `.swb` file.** https://web.sketchub.in/p/31023
 2.  Open the project in Sketchware.
 3.  Navigate to `MainActivity` -> `release_update_button` `onClick` event.
 4.  Open the **Add Source Directly (ASD)** block inside this event.
