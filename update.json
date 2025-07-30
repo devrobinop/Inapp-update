@@ -1,8 +1,1 @@
-{
-  "versionCode": 1,
-  "versionName": "1.0",
-  "title": "New Update Available!",
-  "whatsNew": "• Added new features!\n• Performance improvements.",
-  "updateLink": "https://play.google.com/store/apps/details?id=com.yourapp.package",
-  "isCancelable": false
-}
+{"versionCode":2}
