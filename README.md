@@ -3,12 +3,15 @@
 # Screenshots 
 ![94125](https://github.com/user-attachments/assets/4c183342-a564-4e1c-861c-ac2340762fcb)
 
+
+
 A complete, professional, and modern in-app update system for Sketchware projects. This system allows you to remotely control updates for your user app using a dedicated admin panel app, all powered by the free and reliable GitHub API.
 
 This repository contains the configuration file (`update.json`) that the user app reads. The admin panel app modifies this file directly.
 
 ---
 
+![90506](https://github.com/user-attachments/assets/8c0cc129-65ef-4531-a414-7dca0856aeaa)
 ## 🚀 How to Use This System
 
 Follow these steps to integrate this update system into your own projects.
@@ -36,6 +39,8 @@ This is a one-time setup for your backend.
     *   Click **"Generate token"**.
     *   **IMPORTANT:** Copy the generated token (`ghp_...`) immediately and save it in a secure place. You will **not** be able to see it again.
 
+![90506](https://github.com/user-attachments/assets/8c0cc129-65ef-4531-a414-7dca0856aeaa)
+
 ### Part 2: Configuring the User App (The App Your Users Install)
 
 1.  **Download the User App `.swb` file.** (Provide a link here if you are sharing it).
@@ -44,6 +49,8 @@ This is a one-time setup for your backend.
 4.  Find the `network.startRequestNetwork` block or ASD code.
 5.  Replace the placeholder URL with your **Permanent Raw Link** from Part 1, Step 3.
 6.  That's it! Compile the app and distribute it to your users.
+
+![90506](https://github.com/user-attachments/assets/8c0cc129-65ef-4531-a414-7dca0856aeaa)
 
 ### Part 3: Configuring the Admin Panel App
 
@@ -58,6 +65,8 @@ This is a one-time setup for your backend.
     final String GITHUB_TOKEN = "Your_ghp_..._Token";
     ```
 6.  Compile the admin app and install it on your device.
+
+![90506](https://github.com/user-attachments/assets/8c0cc129-65ef-4531-a414-7dca0856aeaa)
 
 ### Part 4: Releasing an Update
 
@@ -77,7 +86,11 @@ This is a one-time setup for your backend.
 
 ## ⚠️ Important Notes
 
+**It will take 1-2mins to show update in userapp because GitHub raw link takes time to update**
+
 *   **Token Security:** Never share your Personal Access Token publicly. Treat it like a password.
 
 *   **Libraries:**
 *    The admin app requires the `Volley` library.
+
+![90506](https://github.com/user-attachments/assets/8c0cc129-65ef-4531-a414-7dca0856aeaa)
