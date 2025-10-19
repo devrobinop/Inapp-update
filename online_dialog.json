@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "Important Announcement!",
-  "message": "We have released a new update with exciting features.\\nPlease update the app to continue.",
+  "message": "This is the beta Testing for Scarfall.\\nPlease turn on Hacks After Pickup the Gun & And dont use fist.",
   "lottieAnimation": "announcement.json",
   "isCancelable": false,
   "buttons": [
