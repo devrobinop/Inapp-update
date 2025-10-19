@@ -5,12 +5,7 @@
   "lottieAnimation": "announcement.json",
   "isCancelable": false,
   "buttons": [
-    {
-      "text": "Join Telegram",
-      "action": "OPEN_URL",
-      "actionUrl": "https://t.me/ScarfallModz_Org"
-    },
-    {
+   {
       "text": "OK",
       "action": "DISMISS",
       "actionUrl": ""
