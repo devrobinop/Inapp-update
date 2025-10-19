@@ -1,0 +1,19 @@
+{
+  "showDialog": true,
+  "title": "Important Announcement!",
+  "message": "We have released a new update with exciting features.\\nPlease update the app to continue.",
+  "lottieAnimation": "announcement.json",
+  "isCancelable": false,
+  "buttons": [
+    {
+      "text": "Join Telegram",
+      "action": "OPEN_URL",
+      "actionUrl": "https://t.me/ScarfallModz_Org"
+    },
+    {
+      "text": "OK",
+      "action": "DISMISS",
+      "actionUrl": ""
+    }
+  ]
+}
