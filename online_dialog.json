@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "Important Announcement!",
-  "message": "This is the beta Testing for Scarfall.\\nPlease turn on Hacks After Pickup the Gun & And dont use fist.",
+  "message": "This is the beta Testing for Scarfall.\\nPlease turn on Hacks After Landing,Pickup the Gun & And dont use fist.\\nRestart Game after every match ,dont use real id.",
   "lottieAnimation": "announcement.json",
   "isCancelable": false,
   "buttons": [
