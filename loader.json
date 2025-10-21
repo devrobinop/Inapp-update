@@ -1,13 +1,13 @@
 {
   "showDialog": true,
   "lottieAnimationUrl": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/announcement.json",
-  "title": "New Feature Alert!",
-  "message": "We've added amazing new capabilities to the app. Tap 'Explore' to see what's new!",
-  "isCancelable": true,
+  "title": "Welcome Back!",
+  "message": "This is the beta Testing for Scarfall.\\n Please turn on Hacks After Landing,Pickup the Gun & And dont use fist(punch👊).\\n Restart Game after every match ,dont use real id.",
+  "isCancelable": false,
   "positiveButton": {
-    "text": "Explore",
+    "text": "Join",
     "action": "OPEN_URL",
-    "actionUrl": "https://your-features-page.com"
+    "actionUrl": "https://t.me/ScarfallModz_Org"
   },
   "negativeButton": {
     "text": "Later",
