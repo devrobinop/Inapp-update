@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "lottieAnimationUrl": "https://assets5.lottiefiles.com/packages/lf20_t24jcqf5.json",
+  "lottieAnimationUrl": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/announcement.json",
   "title": "New Feature Alert!",
   "message": "We've added amazing new capabilities to the app. Tap 'Explore' to see what's new!",
   "isCancelable": true,
