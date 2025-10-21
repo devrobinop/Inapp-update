@@ -1,0 +1,17 @@
+{
+  "title": "New Update Available!",
+  "message": "We've added new features and improvements. Join our community for the latest news.",
+  "cancelable": true,
+  "buttons": [
+    {
+      "text": "Join Telegram",
+      "action": "OPEN_URL",
+      "actionUrl": "https://t.me/YourChannel"
+    },
+    {
+      "text": "OK",
+      "action": "DISMISS",
+      "actionUrl": ""
+    }
+  ]
+}
