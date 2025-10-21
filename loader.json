@@ -1,18 +1,16 @@
 {
   "showDialog": true,
-  "title": "Important Announcement",
-  "message": "Hello user!\\nPlease check our Telegram channel for the latest news and updates.",
-  "isCancelable": false,
-  "buttons": [
-    {
-      "text": "Join Channel",
-      "action": "OPEN_URL",
-      "actionUrl": "https://t.me/YourChannelHere"
-    },
-    {
-      "text": "Later",
-      "action": "DISMISS",
-      "actionUrl": ""
-    }
-  ]
+  "lottieAnimationUrl": "https://assets5.lottiefiles.com/packages/lf20_t24jcqf5.json",
+  "title": "New Feature Alert!",
+  "message": "We've added amazing new capabilities to the app. Tap 'Explore' to see what's new!",
+  "isCancelable": true,
+  "positiveButton": {
+    "text": "Explore",
+    "action": "OPEN_URL",
+    "actionUrl": "https://your-features-page.com"
+  },
+  "negativeButton": {
+    "text": "Later",
+    "action": "DISMISS"
+  }
 }
