@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "title": "Freeze v1.0",
+  "whatsNew": "• Initial release\\n• Basic DDoS functionality\\n• Simple UI\\n• Target IP/Port configuration",
+  "updateLink": "https://t.me/ScarfallModz_Org",
+  "isCancelable": true
+}
