@@ -1,8 +1,8 @@
 {
   "showDialog": true,
-  "lottieAnimationUrl": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/announcement.json",
+  "lottieAnimationUrl": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/Animation.json",
   "title": "Welcome Back!",
-  "message": "This is the beta Testing for Scarfall.\\n Please turn on Hacks After Landing,Pickup the Gun & And dont use fist(punch👊).\\n Restart Game after every match ,dont use real id.",
+  "message": "\n\n ScarFall is Giving ban Directly using Discord!.\\nPlease don't kill like hackers,Play Safe 10-15 kill get win.\\n Join Telegram For More Updates!!",
   "isCancelable": false,
   "positiveButton": {
     "text": "Join",
