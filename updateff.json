@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "lottieAnimationUrl": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/Animation.json",
   "title": "Update Available!",
   "message": "New version v2.0 is available with awesome features!\n\n• Bug fixes\n• New UI\n• Better performance\n• More features\n\nUpdate now for better experience.",
